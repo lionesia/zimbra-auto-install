@@ -3,7 +3,7 @@ clear
 
 echo -e "##########################################################################"
 echo -e "#              Tegar Wahyu P. - https://www.lionesia.com                 #"
-echo -e "#If there any question about this script, feel free to contact me below  #"
+echo -e "# If there any question about this script, feel free to contact me below #"
 echo -e "#                        tegar@lionesia.com                              #"
 echo -e "##########################################################################"
 
